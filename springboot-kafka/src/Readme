@@ -13,5 +13,9 @@ D:\Programs\kafka\bin\windows>zookeeper-server-start.bat ../../config/zookeeper.
 
 D:\Programs\kafka\bin\windows>kafka-server-start.bat ../../config/server.properties
 
+OR 
+D:\Programs\kafka>.\bin\windows\zookeeper-server-start.bat .\config\zookeeper.properties
+
+D:\Programs\kafka>.\bin\windows\kafka-server-start.bat .\config\server.properties
 
 
