@@ -1,4 +1,17 @@
 
 # Spring Boot Kafka Microservices - Spring Boot Kafka Real-World Project Tutorial
 
+https://stream.wikimedia.org/v2/stream/recentchange
+
+https://esjewett.github.io/wm-eventsource-demo/
+
+https://kafka.apache.org/downloads
+
+https://kafka.apache.org/quickstart
+
+D:\Programs\kafka\bin\windows>zookeeper-server-start.bat ../../config/zookeeper.properties
+
+D:\Programs\kafka\bin\windows>kafka-server-start.bat ../../config/server.properties
+
+
 
